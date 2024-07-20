@@ -1,4 +1,7 @@
-# andrewscheafer.github.io
+# Setting up andrewscheafer.github.io
+
+## to test it locally
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll 
 
 ## to edit basic website content (title, emial, description)
 use _config.yml
